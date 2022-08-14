@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Project-2-RecyclerView-App</string>
+    <string name="app1">Earth</string>
+    <string name="app2">Jupiter</string>
+    <string name="app3">Mercury</string>
+    <string name="app4">Neptune</string>
+    <string name="app5">Saturn</string>
+    <string name="app6">Uranus</string>
+    <string name="app7">Venus</string>
+    <string name="app8">Mars</string>
+
 </resources>
